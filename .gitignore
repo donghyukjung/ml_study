@@ -1,0 +1,6 @@
+venv/
+datasets/
+**/__pycache__/
+**/lightning_logs/
+**/processed/
+**/raw/
